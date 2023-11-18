@@ -1,0 +1,3 @@
+[submodule "TEST"]
+	path = TEST
+	url = https://github.com/idaloof/TEST
